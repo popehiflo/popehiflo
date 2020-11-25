@@ -6,9 +6,9 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/popehiflo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="popehiflo-linkedin" height="30" width="40" /></a>
-<a href="poolpetterhijue@hotmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="popehiflo-outlook" height="30" width="40" /></a>
-<a href="https://twitter.com/popehiflo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="popehiflo-twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/popehiflo/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="popehiflo-linkedin" height="30" width="40" /></a>
+<a href="poolpetterhijue@hotmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="popehiflo-outlook" height="30" width="40" /></a>
+<a href="https://twitter.com/popehiflo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="popehiflo-twitter" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools
