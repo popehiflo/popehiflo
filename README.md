@@ -25,10 +25,10 @@
 
 <!-- Revisar estos -->
 <!-- https://github.com/sabesansathananthan/sabesansathananthan/blob/master/README.md -->
-https://github.com/dereknguyen269/dereknguyen269/blob/master/README.md
-https://github.com/codewithgauri/codewithgauri/blob/main/README.md
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
+<!-- https://github.com/dereknguyen269/dereknguyen269/blob/master/README.md -->
+<!-- https://github.com/codewithgauri/codewithgauri/blob/main/README.md -->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 ### Languages and Tools
 <p align="left">
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
@@ -56,6 +56,8 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <img src="https://img.icons8.com/color/240/000000/intellij-idea.png" alt="intellij idea" width="30px"/>
 </a>
 </p>
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=popehiflo&show_icons=true&locale=en&layout=compact" alt="popehiflo-stats-langs" /></p>
 
