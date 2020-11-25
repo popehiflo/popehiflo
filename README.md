@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="popehiflo-linkedin" height="30" width="40" />](https://www.linkedin.com/in/popehiflo/)
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="popehiflo-linkedin" height="30" width="40" />](https://www.linkedin.com/in/popehiflo/){:target="_blank"}
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="popehiflo-outlook" height="30" width="40" />](poolpetterhijue@hotmail.com)
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="popehiflo-twitter" height="30" width="40" />](https://twitter.com/popehiflo)
 
