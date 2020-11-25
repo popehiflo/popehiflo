@@ -2,6 +2,11 @@
 
 ## I'm a Husband, Father, Developer and Student:exclamation:
 
+#### A passionate Java Developer from Peru
+
+### Connect with me:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/popehiflo/)
+
 <!--
 **popehiflo/popehiflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
