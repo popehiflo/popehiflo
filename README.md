@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Petter Hijuela
+
+## I'm a Husband, Father, Developer and Student:exclamation:
 
 <!--
 **popehiflo/popehiflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
