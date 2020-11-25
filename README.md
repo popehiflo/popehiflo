@@ -23,6 +23,12 @@
 <a href="https://www.facebook.com/popehiflo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="popehiflo-facebook" height="30" width="40" /></a>
 </p>
 
+<!-- Revisar estos -->
+<!-- https://github.com/sabesansathananthan/sabesansathananthan/blob/master/README.md -->
+https://github.com/dereknguyen269/dereknguyen269/blob/master/README.md
+https://github.com/codewithgauri/codewithgauri/blob/main/README.md
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 ### Languages and Tools
 <p align="left">
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
@@ -39,12 +45,12 @@
 </a>
 <a href="https://github.com/" target="_blank">
 <img alt="github" width="30px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
+</a>
 <a href="https://docs.oracle.com/en/java/" target="_blank">
 <img src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" alt="java" width="30px">
 </a>
 <a href="https://www.eclipse.org/" target="_blank">
-<img src="https://img.icons8.com/fluent/240/000000/java-eclipse-logo.png" alt="eclipse ide" width="30px"/>
+<img src="https://img.icons8.com/color/240/000000/intellij-idea.png" alt="eclipse ide" width="30px"/>
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank">
 <img src="https://img.icons8.com/color/240/000000/intellij-idea.png" alt="intellij idea" width="30px"/>
