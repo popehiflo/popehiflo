@@ -7,15 +7,19 @@
   <a href="https://popehiflo.github.io/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="popehiflo home page" height="30" width="40" />
   </a>
+  .
   <a href="https://www.linkedin.com/in/popehiflo/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="popehiflo-linkedin" height="30" width="40" />
   </a>
+  .
   <a href="https://twitter.com/popehiflo" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="popehiflo-twitter" height="30" width="40" />
   </a>
+  .
   <a href="https://www.instagram.com/popehiflo/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="popehiflo-instagram" height="30" width="40" />
   </a>
+  .
   <a href="https://www.facebook.com/popehiflo" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="popehiflo-facebook" height="30" width="40" />
   </a>
