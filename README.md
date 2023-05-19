@@ -5,15 +5,15 @@
 <div align="center">  
   
   [![Linkedin Badge](https://img.shields.io/badge/portfolio-393646.svg?&style=for-the-badge&logo=github&logoColor=white)](https://popehiflo.github.io/)
-   [![GitHub Page Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/popehiflo/)
+  [![GitHub Page Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/popehiflo/)
   [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popehiflo@gmail.com)](mailto:popehiflo@gmail.com)
-  [![YouTube Badge](https://img.shields.io/badge/youtube-D71E18.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/popehiflo)
+  [![YouTube Badge](https://img.shields.io/badge/youtube-D71E18.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@popehiflo)
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/@popehiflo)
   
 </div>
 <p align="center">
   <a href="https://popehiflo.github.io/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="popehiflo home page" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="popehiflo home page" />
   </a>
   .
   <a href="https://www.linkedin.com/in/popehiflo/" target="_blank">
