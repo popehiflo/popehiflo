@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=popehiflo&style=flat-square)
 ## Hi there 👋,
-<h1 align="center">I'm Pool Petter Hijuela - aka popehiflo </h1>
+<h1 align="center">I'm Pool Petter Hijuela - aka popehiflo</h1>
 
 <div align="center">  
   
@@ -11,33 +11,11 @@
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/@popehiflo)
   
 </div>
-<p align="center">
-  <a href="https://popehiflo.github.io/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="popehiflo home page" />
-  </a>
-  .
-  <a href="https://www.linkedin.com/in/popehiflo/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="popehiflo-linkedin" height="30" width="40" />
-  </a>
-  .
-  <a href="https://twitter.com/popehiflo" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="popehiflo-twitter" height="30" width="40" />
-  </a>
-  .
-  <a href="https://www.instagram.com/popehiflo/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="popehiflo-instagram" height="30" width="40" />
-  </a>
-  .
-  <a href="https://www.facebook.com/popehiflo" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="popehiflo-facebook" height="30" width="40" />
-  </a>
-</p>
-<p>
-  <h4 align="center">A passionate Java Developer from Perú</h4>
-</p>
-<p align="center">
-  
-</p>
+
+<div align="center">  
+  <h3>A passionate Java Full Stack Developer from Perú</h3>
+</div>
+
 <p>
   <h4>I'm a Husband, Father, Student, Undergraduate, Developer and Welder Helper!</h4>
 </p>
@@ -52,11 +30,7 @@
 - ⚡ Fun fact: I love to play Dota 2 and listen music
 
 
-
 <!-- Revisar estos -->
-<!-- https://github.com/sabesansathananthan/sabesansathananthan/blob/master/README.md -->
-<!-- https://github.com/dereknguyen269/dereknguyen269/blob/master/README.md -->
-<!-- https://github.com/codewithgauri/codewithgauri/blob/main/README.md -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 ### Languages and Tools 🛠
