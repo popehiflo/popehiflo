@@ -1,8 +1,16 @@
-<p align="center">
-  <h3 align="center">Hi there, I'm Pool Petter Hijuela - aka popehiflo 👋</h3>
-</p>
-<!-- Iconos de redes sociales -->
-<!-- https://www.jsdelivr.com/package/npm/simple-icons?version=3.0.1&path=icons -->
+![](https://komarev.com/ghpvc/?username=popehiflo&style=flat-square)
+## Hi there 👋,
+<h1 align="center">I'm Pool Petter Hijuela - aka popehiflo </h1>
+
+<div align="center">  
+  
+  [![Linkedin Badge](https://img.shields.io/badge/portfolio-393646.svg?&style=for-the-badge&logo=github&logoColor=white)](https://popehiflo.github.io/)
+   [![GitHub Page Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/popehiflo/)
+  [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:popehiflo@gmail.com)](mailto:popehiflo@gmail.com)
+  [![YouTube Badge](https://img.shields.io/badge/youtube-D71E18.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/popehiflo)
+  [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/@popehiflo)
+  
+</div>
 <p align="center">
   <a href="https://popehiflo.github.io/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="popehiflo home page" height="30" width="40" />
@@ -28,7 +36,7 @@
   <h4 align="center">A passionate Java Developer from Perú</h4>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=popehiflo&show_icons=true&locale=en&layout=compact" alt="popehiflo-stats-langs" />
+  
 </p>
 <p>
   <h4>I'm a Husband, Father, Student, Undergraduate, Developer and Welder Helper!</h4>
@@ -51,33 +59,24 @@
 <!-- https://github.com/codewithgauri/codewithgauri/blob/main/README.md -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-### Languages and Tools
-<p align="left">
-<a href="https://www.microsoft.com/en-us/windows" target="_blank">
-<img src="https://img.icons8.com/color/240/000000/windows-10.png" alt="windows" width="30px">
-</a>
-<a href="https://www.kernel.org/" target="_blank">
-<img alt="linux" width="30px" src="https://img.icons8.com/color/96/000000/linux.png">
-</a>
-<a href="https://ubuntu.com/" target="_blank">
-<img alt="ubuntu" width="30px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png">
-</a>
-<a href="https://github.com/" target="_blank">
-<img alt="github" width="30px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</a>
-<a href="https://docs.oracle.com/en/java/" target="_blank">
-<img src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" alt="java" width="30px">
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-<img src="https://img.icons8.com/color/240/000000/intellij-idea.png" alt="intellij idea" width="30px"/>
-</a>
-</p>
+### Languages and Tools 🛠
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=popehiflo&show_icons=true&locale=en" alt="popehiflo-stats-api" />
+  <img src="https://skillicons.dev/icons?i=linux,figma,vscode,idea,eclipse,git,github,gitlab,html,css,js,ts,react,angular,nodejs,express,java,hibernate,spring,mongodb,mysql" />
 </p>
+
+### Github Metrics 📈
+<p align="center">
+  <img align="center" width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popehiflo&theme=github_dark" />
+</p>
+
+### GitHub Stats 📉
+<details>
+  <summary>show</summary>
+  <div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=popehiflo&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=2F81F7&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="popehiflo-stats-api" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=popehiflo&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="popehiflo-stats-langs" />
+  </div> 
+</details>
 
 
 
