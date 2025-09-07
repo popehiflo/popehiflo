@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=popehiflo&style=flat-square)
+
 ## Hi there 👋,
+
 <h1 align="center">I'm Pool Petter Hijuela - aka popehiflo</h1>
 
 <div align="center">  
@@ -20,7 +22,6 @@
   <h4>I'm a Husband, Father, Student, Undergraduate, Developer and Welder Helper!</h4>
 </p>
 
-
 - 🏠 I'm currently living at Cusco city, Peru
 - 🔭 I’m currently working as a Fullstack Developer Jr!
 - 🌱 I’m currently learning Fullstack (**Spring Framework** & **Angular/ReactJS**) and English 🤦‍♂
@@ -29,21 +30,24 @@
 - 📫 How to reach me **poolpetterhijuel@hotmail.com**
 - ⚡ Fun fact: I love to play Dota 2 and listen music
 
-
 <!-- Revisar estos -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
 ### Languages and Tools 🛠
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,figma,vscode,idea,eclipse,git,github,gitlab,html,css,js,ts,react,angular,nodejs,express,java,hibernate,spring,mongodb,mysql" />
 </p>
 
 ### Github Metrics 📈
+
 <p align="center">
   <img align="center" width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=popehiflo&theme=github_dark" />
 </p>
 
 ### GitHub Stats 📉
+
 <details>
   <summary>show</summary>
   <div align="center">  
@@ -51,7 +55,3 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=popehiflo&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="popehiflo-stats-langs" />
   </div> 
 </details>
-
-
-
-
